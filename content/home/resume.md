@@ -24,7 +24,7 @@ subtitle = ""
 <div style="position:relative;margin-bottom:36px;">
 <div style="position:absolute;left:-34px;top:5px;width:14px;height:14px;border-radius:50%;background:#1565c0;border:2px solid white;box-shadow:0 0 0 2px #1565c0;"></div>
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px;">
-<div><div style="font-weight:700;font-size:1rem;line-height:1.3;">Lead Model Validator</div><div style="color:#1565c0;font-weight:600;font-size:0.9rem;">Rabobank</div></div>
+<div><div style="font-weight:700;font-size:1rem;line-height:1.3;">Lead Model Validator</div><div style="display:flex;align-items:center;gap:7px;margin-top:2px;"><img src="/img/logos/rabobank.svg" style="height:22px;width:22px;object-fit:contain;border-radius:50%;" alt="Rabobank"><span style="color:#1565c0;font-weight:600;font-size:0.9rem;">Rabobank</span></div></div>
 <div style="text-align:right;"><div style="font-size:0.82rem;color:#666;">Apr 2022 – Present</div><div style="font-size:0.78rem;color:#999;">Utrecht, NL</div></div>
 </div>
 <ul style="margin-top:10px;padding-left:18px;font-size:0.87rem;color:#555;line-height:1.7;">
@@ -37,7 +37,7 @@ subtitle = ""
 <div style="position:relative;margin-bottom:36px;">
 <div style="position:absolute;left:-34px;top:5px;width:14px;height:14px;border-radius:50%;background:#1565c0;border:2px solid white;box-shadow:0 0 0 2px #1565c0;"></div>
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px;">
-<div><div style="font-weight:700;font-size:1rem;line-height:1.3;">Model Validator</div><div style="color:#1565c0;font-weight:600;font-size:0.9rem;">ABN AMRO Bank</div></div>
+<div><div style="font-weight:700;font-size:1rem;line-height:1.3;">Model Validator</div><div style="display:flex;align-items:center;gap:7px;margin-top:2px;"><img src="/img/logos/abnamro.svg" style="height:22px;width:22px;object-fit:contain;border-radius:4px;" alt="ABN AMRO"><span style="color:#1565c0;font-weight:600;font-size:0.9rem;">ABN AMRO Bank</span></div></div>
 <div style="text-align:right;"><div style="font-size:0.82rem;color:#666;">Aug 2020 – Mar 2022</div><div style="font-size:0.78rem;color:#999;">Amsterdam, NL</div></div>
 </div>
 <ul style="margin-top:10px;padding-left:18px;font-size:0.87rem;color:#555;line-height:1.7;">
@@ -49,7 +49,7 @@ subtitle = ""
 <div style="position:relative;">
 <div style="position:absolute;left:-34px;top:5px;width:14px;height:14px;border-radius:50%;background:#546e7a;border:2px solid white;box-shadow:0 0 0 2px #546e7a;"></div>
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px;">
-<div><div style="font-weight:700;font-size:1rem;line-height:1.3;">Software Developer</div><div style="color:#546e7a;font-weight:600;font-size:0.9rem;">Microsoft</div></div>
+<div><div style="font-weight:700;font-size:1rem;line-height:1.3;">Software Developer</div><div style="display:flex;align-items:center;gap:7px;margin-top:2px;"><img src="/img/logos/microsoft.svg" style="height:22px;width:22px;object-fit:contain;" alt="Microsoft"><span style="color:#546e7a;font-weight:600;font-size:0.9rem;">Microsoft</span></div></div>
 <div style="text-align:right;"><div style="font-size:0.82rem;color:#666;">Jun 2019 – Jul 2020</div><div style="font-size:0.78rem;color:#999;">Delft, NL</div></div>
 </div>
 <ul style="margin-top:10px;padding-left:18px;font-size:0.87rem;color:#555;line-height:1.7;">
